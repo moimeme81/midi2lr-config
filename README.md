@@ -1,8 +1,4 @@
-MIDI2LR Configuration for Behringer X Touch Mini
-(c) 2018, Carsten Schlipf, http://www.aperturized.com
-
-See http://www.aperturized.com/essays/2019/01/lightroom-with-midi-controllers-my-midi2lr-setup/
-for more information on how to use the contents of this package.
+Based on ashishpanday/midi2lr-config
 
 CONTENTS:
 
