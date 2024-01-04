@@ -1,5 +1,7 @@
 Based on ashishpanday/midi2lr-config
 
+STILL A WORK IN PROGRESS...
+
 CONTENTS:
 
 xtouch-mini-mide2Lr-overlay-black.eps:
