@@ -13,3 +13,5 @@ behringer-xtouch-mini/presets.txt:
 behringer-xtouch-mini/profiles/
 	XML files describing MIDI2LR profiles that map the controller controls to
 	Lightroom functions.
+
+![image](xtouch.png)
